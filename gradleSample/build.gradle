@@ -30,4 +30,5 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web:2.0.1.RELEASE'
     implementation 'org.apache.commons:commons-lang3:3.4'
 
+	implementation 'org.springframework.boot:spring-boot-devtools:2.0.1.RELEASE'
 }
